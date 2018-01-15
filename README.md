@@ -1,2 +1,2 @@
 # ai-projects
-Artificial Intelligence projects, documentation and code.
+Artificial Intelligence projects: documentation and code.
